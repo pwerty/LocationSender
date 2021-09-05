@@ -1,4 +1,4 @@
-# LocationSender
+# LocationSender : Private Destination
 set location by sender, get location to whitelist persons
 
 허락된 사람만 전송자의 위치를 볼 수 있는 프로그램입니다.
